@@ -1,0 +1,501 @@
+Transaction_ID,Customer_ID,Transaction_Amount,Payment_Method,Category,Customer_Age,Customer_Region,Fraud_Flag
+35c32860-fc17-4efc-9680-f151e389d4e3,cd44fc43,7.16,Apple Pay,Clothing,25,East,0
+5b79f9bf-9afb-4dbf-a173-d2997c9d1616,f48e0b70,38.97,PayPal,Electronics,71,South,0
+598ebd13-91a2-455a-b9d2-49440ff8814e,9f721bcb,9.76,Credit Card,Groceries,31,East,0
+62c1dec3-f347-44c5-9050-a83e032595c2,502e38c9,67.71,Apple Pay,Electronics,48,Central,0
+79fb36ec-2ffd-4c2f-a8b1-d2c37e78e1a1,135b3ac9,125.27,Debit Card,Travel,68,North,0
+eee0c364-6d17-42fc-b638-fa97f9671a27,e7e1446f,11.61,PayPal,Electronics,35,North,0
+bafa6026-476b-4cd3-ac15-6f3402b417d1,74e1c7e0,118.63,Apple Pay,Healthcare,64,East,0
+4dd860c4-d54b-4e69-9bfd-159ced3da1a3,f734308b,49.95,Apple Pay,Clothing,47,West,1
+77abe553-1495-4572-a13d-98ef5b4a769b,085a6bd8,10.92,Credit Card,Healthcare,35,North,0
+14e46a3b-e56f-4393-9468-092e38d532ab,62e2a7ae,66.69,Credit Card,Clothing,69,North,0
+caecfa09-18e8-477a-9add-7b8aa422e895,13e7d343,4.76,Credit Card,Healthcare,74,North,0
+73cc063b-ab48-493d-a050-4f6d07103ef3,f16ceb24,58.91,Apple Pay,Restaurants,42,West,0
+32cede93-391b-48ef-9f3d-3d3d4b665be1,84941752,98.76,Apple Pay,Healthcare,66,Central,0
+bbc64e62-0afc-4cba-ba25-65d42750a10f,77ceded9,150.16,Debit Card,Electronics,54,East,0
+56222270-6a0c-4e85-b7d6-6e08dd7cc6c2,7cfd3063,2.8,Google Pay,Groceries,42,West,0
+84bc1a7e-9f8e-4b18-8daf-5f1256f6b1e7,62a60b48,3.2,Credit Card,Travel,47,East,0
+557a4285-7b63-448c-9113-6c66027b19c9,83555ddf,133.25,Debit Card,Travel,47,South,0
+f1cddd81-e7be-4508-80a6-09ae56a3e29d,4f3bd14e,77.94,Debit Card,Healthcare,53,East,0
+e5b8f9a7-2633-4052-876d-3f4b11631a36,71b2f748,74.42,PayPal,Groceries,28,North,0
+07a101ee-d3ed-4f5a-afbe-6c7706ee0602,9da72dee,67.86,Debit Card,Travel,65,West,0
+9c228ce4-3deb-4205-b499-f866cd1f2ed2,a2cf522a,63.17,Credit Card,Healthcare,56,West,0
+c7cb44ed-8603-4a6a-a21b-affc0c4c67ff,5adae38f,47.5,Google Pay,Healthcare,44,Central,0
+2a61811d-17b0-470b-becc-4e4c9f3c4fd6,8261a6b7,83.76,Debit Card,Groceries,33,South,0
+1cf8c536-9213-4110-b1b5-dc2fae927b5e,544d06d7,1.74,Apple Pay,Groceries,55,Central,0
+ccd86343-a790-48e6-a8e9-ff437588c007,65b467a3,67.41,Apple Pay,Restaurants,49,Central,0
+ff4af4a8-091c-4dc2-ba01-a9691c461be9,d4757ce5,43.72,Debit Card,Healthcare,46,South,0
+e70311a7-0147-48ae-ba5c-60aef38f983e,b3ff8c92,119.01,Credit Card,Electronics,69,North,0
+12b8e837-a645-4c70-9c7b-8117a475e109,de99e2b6,137.74,Google Pay,Clothing,27,West,0
+187c1011-4520-4d24-ba75-d3b5250c17a0,4dd9f5a0,13.81,Google Pay,Clothing,47,East,0
+326e2ea1-2498-474e-b972-62131ddef5e0,373fc8fe,77.9,Credit Card,Healthcare,28,South,0
+4da0c5ed-f7cc-4983-a560-e15059c5053d,8b4fe3f7,157.33,Apple Pay,Electronics,32,Central,0
+83f5659f-fdaf-479a-973b-44eac550865c,44d4e7f2,15.51,Apple Pay,Travel,61,East,0
+7c755351-f923-4d42-be0a-9bade293a7fa,12c780c7,95.22,PayPal,Groceries,40,South,0
+4f0db7a3-cd62-4e38-a31e-111c7d6e69e4,09dea9ce,44.16,Debit Card,Clothing,65,South,0
+497b8fa4-581d-438b-894e-276d85a5f427,37e0da99,25.13,Debit Card,Restaurants,40,North,0
+18fb4cf7-ec89-4ff6-b835-f228265c67fa,256fc296,86.75,Apple Pay,Travel,67,North,0
+812f8fa9-03f2-473b-a8e2-5660bc3c3276,79d23c3a,102.13,Debit Card,Restaurants,24,West,1
+14898cdb-372c-4e3b-b895-42d4d6b6b676,e4422155,16.61,Credit Card,Clothing,31,West,0
+16c33751-e4c1-46d6-aa11-436f48228408,46f4038d,79.11,Google Pay,Electronics,26,East,0
+b55846ec-31f8-4217-b025-429bfd01ff95,a2539f95,2.55,PayPal,Electronics,71,West,0
+1bda9a40-8094-4d00-9dfe-d9ff41c9ffb0,76683489,27.04,Credit Card,Restaurants,45,South,0
+b02630f4-6954-4af2-bd85-2fd718cea8cc,bc7fd1be,3.62,Credit Card,Healthcare,23,South,0
+6b1ad097-50f1-4c09-9f40-2de2b1f14ae2,9a9f9597,17.4,Credit Card,Travel,60,South,0
+daacf9af-5256-4513-acb8-390e216c9b74,1a607c88,150.15,Debit Card,Clothing,62,South,0
+d6c3036d-dc52-4ba3-8e27-0febeb065920,164a18d0,66.35,Google Pay,Groceries,39,North,0
+4cf1bc04-b551-476d-9ef0-e63c19ad9b94,402b6882,70.45,PayPal,Electronics,35,South,0
+49ed25bc-9458-436c-b944-a5cf9d9bda95,bbd2683f,7.22,Apple Pay,Restaurants,61,South,0
+ede1e6c2-6aaa-4064-b969-28099416ab58,0607a731,43.22,Credit Card,Clothing,55,South,0
+5ad3cf59-3c86-4261-8a9b-e736e2bd1206,3976b158,24.62,Credit Card,Travel,39,Central,0
+7a7cc6c1-4921-4177-b354-f4bcc7cfb93a,106f5232,66.25,Credit Card,Healthcare,26,East,0
+d33f322f-b476-4446-8341-6b82fd90dd4b,82af1c8f,8.54,Apple Pay,Groceries,35,East,0
+1be3ad9f-62e7-43e5-b60a-cd55b8bacefa,419068b9,16.56,Debit Card,Groceries,74,South,0
+3404c4a0-d652-4983-8b50-a1ee9324668b,b18e8e01,114.42,Debit Card,Healthcare,38,South,0
+aeb58c13-14e8-409a-a5b7-b20dfd479e37,61be1ca2,9.3,Google Pay,Electronics,32,East,0
+7b3f9810-2173-4856-9c0b-9cdbba15b39b,2b2da01a,50.04,Debit Card,Groceries,26,West,0
+86914444-d03a-4014-ac1b-169913039d42,b0f37902,18.93,Debit Card,Clothing,59,Central,0
+a13a5e1c-931e-4a21-a360-b73b67d45135,e621e8dd,4.27,PayPal,Electronics,19,Central,0
+bf81cba5-03c7-427e-91ff-2397d13e5c3d,7552cff8,12.66,PayPal,Electronics,31,West,0
+aacf1f7d-85bd-4ec7-906f-bba7c7855685,8903c897,101.78,Debit Card,Electronics,38,South,0
+79229a27-e8cb-4e4c-a891-63932834ff9c,b65f2e1a,120.7,PayPal,Healthcare,60,East,0
+a8bf4797-4a31-4ca9-ad6e-a41d738ddc69,3047e571,27.22,Google Pay,Clothing,62,Central,0
+c4cb1599-3885-4c99-837b-d040529efcef,7bf09ff2,48.5,Debit Card,Restaurants,51,West,0
+09c70e65-2623-43ae-9ab6-1b5354ebfd5c,ea2e1599,36.75,PayPal,Groceries,70,West,0
+95fdf474-7b9b-457e-bbe4-58114c2c5a11,598775d3,16.4,Apple Pay,Groceries,24,North,0
+9061afab-028f-43f5-b9ce-b32ca58c3fb2,2af65924,21.14,PayPal,Restaurants,32,West,0
+292ff354-a48a-4a7b-950d-2ac95e064032,4fb85830,37.41,PayPal,Electronics,56,North,0
+45e69032-4db8-4dc8-b98e-4c1d6254d3cb,c977cbdb,59.43,Apple Pay,Travel,29,North,0
+d489db79-1815-4c90-a99e-047dbdd355eb,a7ed9334,21.53,Google Pay,Clothing,24,Central,0
+e3be37a0-2a5b-412b-b3e2-ab70f93866cf,26fdf8cb,60.02,Apple Pay,Electronics,22,South,0
+09eb9b56-4e6f-4838-bd4a-bd5db2148f70,bb15d324,162.19,Google Pay,Electronics,64,South,0
+1e188f56-b3c8-44bd-83d1-c419d59e9b0c,27ddc3b3,1.24,Apple Pay,Electronics,56,West,0
+a00105dc-8ead-4ef4-a0fb-c7027a9c79c3,19814211,8.95,Google Pay,Groceries,71,East,0
+11f0adef-777c-4055-8355-77b5702fc576,908e6303,124.01,Google Pay,Healthcare,40,East,0
+7c6dd0f3-befe-4baf-84cd-d71e91587339,ffe86d8d,3.71,Credit Card,Healthcare,70,North,0
+f15bdf31-5e55-4ff0-b1b4-7fab9963c641,1cace151,72.42,Credit Card,Healthcare,45,West,0
+a318ba7f-ae5c-49ac-9755-3f32c37a63e9,b8ffaad3,48.91,PayPal,Groceries,51,West,0
+3b8b72a5-b93c-419c-98f8-d04981242c16,9485d802,2.44,Apple Pay,Healthcare,42,South,0
+51b9b7af-b030-420c-b774-ff48051df1be,07f3b6ab,0.04,Google Pay,Travel,19,East,0
+43d70e37-cc39-45ff-bcd3-c4770e66919c,afdbfc6a,34.86,Credit Card,Clothing,68,Central,0
+5d49b99c-3f12-4b52-b1a7-93294b471a36,1e863602,6.24,PayPal,Electronics,26,West,0
+07f474b3-4275-487e-8bd2-23e6f52f5acd,f9c307bd,102.87,PayPal,Healthcare,51,West,0
+2a2c604e-1160-4770-8f0f-a2ee26923b11,eff50786,32.77,PayPal,Groceries,63,South,0
+180a0626-3fc9-4723-abb1-905dedddd05d,034742f8,13.36,Credit Card,Restaurants,64,Central,0
+eec331d9-1ac9-4c50-862d-e64ff5c2effd,4907f120,9.21,Debit Card,Groceries,73,Central,0
+21810c07-0576-4755-991d-087afb0d385b,9970b68a,90.33,PayPal,Electronics,49,Central,0
+2bf0463c-add3-4764-bb42-1a449326560c,ad240453,63.42,Debit Card,Electronics,29,Central,0
+0da565ac-d0c7-47e9-aadd-66a48463e087,22ba3f31,63.29,Debit Card,Groceries,36,East,0
+7e67f675-262c-4e42-a757-f3e372ba56b0,cecdd9ce,4.46,Debit Card,Restaurants,64,North,0
+1f9d7d57-5aa5-4ff7-b877-c6d6d48c7714,55bce1cf,48.98,PayPal,Restaurants,55,Central,0
+45f9f7d5-6b02-4c0a-8701-53dc138dad0c,03848743,101.81,Google Pay,Electronics,74,North,0
+d1cd91e0-dd09-4210-b801-c4830c5a7c59,d5af1dc7,72.6,Debit Card,Groceries,27,North,0
+e137e066-4022-49a8-9e68-f1b4ec5ebe7b,af497b54,6.29,Credit Card,Clothing,27,South,0
+fd0d6892-3603-4f40-98ad-e663f94bcffe,8429ffb5,149.07,Credit Card,Clothing,52,Central,0
+937e1b72-42f0-4ac1-8d18-dbff80cc49fc,927b2b76,3.61,Debit Card,Electronics,58,East,0
+f0340d42-6bca-443c-b45e-9725a5b088e7,8f757b92,40.7,Debit Card,Restaurants,72,South,0
+a80cec1c-0d8b-4019-aa16-0b3d5ea0f87d,7e0452b6,145.03,Debit Card,Clothing,54,South,0
+5c6811c9-065b-4702-a49b-e3cc33617209,2e9c9f29,86.37,Credit Card,Groceries,49,North,0
+b4863ab5-9095-4fe2-abcf-3480489ec369,78e4c3df,57.1,Apple Pay,Travel,73,West,0
+19acc51c-3b0a-4380-b875-3e419c505f74,67355de8,97.02,Google Pay,Travel,71,East,0
+9e305e93-b891-42db-903a-416ab0b9aa2a,ad6b5f33,55.93,Apple Pay,Restaurants,24,Central,0
+ee285d1e-2714-4732-bf77-a68a6049166d,0a05c08b,2.83,Credit Card,Healthcare,68,Central,0
+0d709e4e-1959-4a81-9984-44e605c0be84,9fdc778a,21.61,Credit Card,Travel,27,East,0
+473a7a5b-c2e3-4bb7-8180-90662d106c05,aad700f1,27.85,PayPal,Groceries,60,Central,0
+ac31b358-fd24-4a9d-af12-0ff00c84219b,8ef8bdc7,39.52,Apple Pay,Healthcare,55,West,0
+455b2fd5-12e1-4368-8f87-ecb58800773b,0c7074cd,13.04,Debit Card,Electronics,44,West,0
+40163bfc-d753-44e5-ada8-6c694b600f83,cfc57ba8,106.5,Debit Card,Electronics,49,Central,0
+0307611d-34f7-4594-ac70-9c5467885a33,1af39f9c,12.98,Credit Card,Groceries,68,South,0
+4bf318a4-4eaf-4426-9788-7ff9e04fe099,fad06059,53.59,PayPal,Electronics,24,Central,0
+6adfa63a-e5bd-4578-b5b2-feef5c4078b5,e076a80b,104.62,Apple Pay,Groceries,65,Central,0
+9d302560-64de-48ae-b670-07795e09934e,9f045949,65.99,PayPal,Groceries,43,East,0
+4a26825e-ea3c-48fb-b1c4-a3910fcdc6b2,ac03aae2,7.31,Google Pay,Travel,39,West,0
+52654c2e-8d51-45a7-99d0-871267a8429a,5e9d7019,151.2,PayPal,Healthcare,29,South,0
+a19472c4-b20b-43a8-a9cf-e9f8d1ec27bf,504637e9,4.82,Google Pay,Travel,41,East,0
+53d0ee51-e824-4d17-a337-416fd2c09ed5,1a03cff5,11.16,Apple Pay,Restaurants,73,East,0
+81bcb7ce-5a4f-44dc-9c02-7034fb9deb42,ac22a28b,7.5,Debit Card,Travel,71,South,0
+a4a797e4-188f-401b-9316-128b44c60879,ae620900,54.97,Google Pay,Electronics,67,South,0
+d2460cee-567a-4636-aeb3-1dde2fadfc78,d33cc1a1,82.36,Debit Card,Healthcare,63,East,0
+0c599213-e8d4-41ea-9c04-534bdf4ae2e2,e7053fd6,13.59,PayPal,Travel,46,Central,0
+e858a925-f172-4a02-8e1a-1f89c4922f80,50fd6872,193.76,PayPal,Groceries,49,South,0
+6da49622-7e86-470e-8f9f-41d979f291fa,3240e2d0,7.5,Apple Pay,Travel,33,North,0
+0a352099-244d-471c-948b-9643f4ed7a8b,d1eedba6,18.98,Debit Card,Electronics,43,South,0
+61361668-3f1a-4883-a3ae-6d5cd0007004,fe62f0f9,33.7,Apple Pay,Restaurants,23,East,0
+3d2a2b81-41b8-4e8e-bec3-9e4ac9a2533a,1159379d,82.73,Google Pay,Healthcare,18,North,0
+de4bf944-6f9a-4d53-9d85-f5e604bba675,3489a321,23.62,PayPal,Clothing,30,East,0
+94e4bb6e-5a0e-4bc9-8c4f-b2fe8ef0b719,3222444c,9.92,PayPal,Healthcare,55,West,0
+7a5bd243-4971-47a9-9a86-5325640f4749,e031b18e,31.27,PayPal,Groceries,23,West,0
+0c21e1cc-7253-40aa-9177-cc4726068709,69c13a86,32.36,PayPal,Electronics,55,Central,0
+4b375402-daf5-4e99-8e99-e01277c2a1f2,17638dd3,0.82,PayPal,Electronics,29,South,0
+da0aa718-23a3-478e-9221-a4f73420d7b8,0565f8f8,1.06,Google Pay,Clothing,26,East,0
+b5de010a-653a-4942-9634-24b6944cb04f,431cb802,16.26,Google Pay,Restaurants,37,North,0
+08979272-3134-49c5-b71d-22a8a827663e,84542b45,67.59,Apple Pay,Groceries,56,South,0
+916da595-1b9c-48da-86b9-74cec0a2fc4e,4eca8c33,22.78,Credit Card,Restaurants,44,Central,0
+27900cba-f029-4e4c-9706-86045efd6e83,4d397be2,11.86,PayPal,Clothing,20,East,0
+9e1c11bf-b072-47ff-a2f9-5723f7b7139c,33d94cbb,5.99,PayPal,Groceries,41,East,0
+31950eb0-5af6-45f5-8d26-81a976678e7d,67584aa2,16.46,Credit Card,Travel,32,West,0
+a8895435-8fe0-4588-bd2b-8a515c0e5b37,8e7201b6,32.83,Apple Pay,Restaurants,51,Central,0
+937d6c10-83f6-44e1-b589-79118f876852,67b9dbc1,4.9,Google Pay,Travel,67,East,0
+a139a25d-5712-48fa-adfd-4cc15d29b8eb,027fe672,0.75,PayPal,Groceries,49,West,0
+a7d99700-9d1e-4870-a703-8295868645c0,b95a4266,6.81,Apple Pay,Clothing,38,West,0
+14cee46b-6ea3-4adf-9e75-25bafc7e1e10,d32e88de,66.97,Credit Card,Travel,18,North,0
+c0e18eee-0986-4d69-8065-67b59f869cca,d5df8289,31.4,Google Pay,Travel,50,Central,0
+5186ae17-bf37-4e29-92a8-3cbc9be7054d,a6585dce,29.45,Google Pay,Electronics,28,Central,0
+40badd15-b1f4-475e-9ba6-5f480a6c0eb8,077bc4b9,1,Apple Pay,Groceries,20,East,0
+ee6e661d-b203-4000-b004-a10c68879702,d8c6f2a6,62.06,Debit Card,Healthcare,39,North,0
+d799a7cf-47ab-40a0-92ec-2d72a2cd6c3c,9c1f8ceb,11.28,Debit Card,Clothing,27,South,0
+a164e7d8-f61b-43e3-a019-a7cd60733a91,00db71b8,4.76,Debit Card,Electronics,61,East,0
+f8be3e12-08e2-4bf1-a529-0aabaca8413a,7ac8c5fc,92.27,Credit Card,Restaurants,55,West,0
+1a2569b7-d312-4928-83fd-98b793a4da49,b21a75af,33.24,Debit Card,Clothing,41,South,0
+f0ddd504-73fa-4cec-9250-0e1c170bab4a,6df79018,69.1,Apple Pay,Electronics,24,South,0
+97a9f1dd-0503-4b07-bb88-796cb2ca2540,9a1b20ec,86.27,Google Pay,Restaurants,66,East,0
+bdf6a961-fd2e-4567-a013-a45bb801e50b,443cabb4,167.08,Apple Pay,Clothing,66,North,0
+2bec3159-67d4-4df9-b988-d8ad2719e5b5,39b44fbc,48.87,Apple Pay,Electronics,53,Central,0
+624ae234-6739-47ac-9ce0-0d68beb09977,907f71ca,3.54,PayPal,Clothing,18,North,0
+f78c77e3-b1cc-4955-998f-02faed353422,1c75e741,40.79,Credit Card,Travel,18,East,0
+9fa717e8-64ca-45d7-bb38-6084b85d3905,15c5fc1c,35.62,Google Pay,Electronics,43,Central,0
+9a5776d1-61e9-4645-a363-d6008be41caf,9b2aa374,2.96,PayPal,Travel,34,South,0
+7811f8a3-40ca-4aec-b016-b446f76e2687,fe93d9a0,18.29,Credit Card,Electronics,28,West,0
+c020e2a4-5c21-4b25-b154-ca2b565d58e2,8f0fcdb6,26.57,Google Pay,Travel,20,North,0
+f46d2556-398e-4f80-a77c-51119b66ce8f,12a68e29,8.78,PayPal,Groceries,27,Central,0
+4140b57c-7e36-4be1-a1ef-827e5bc2f863,c7cc621f,0.44,Debit Card,Travel,19,North,0
+dee93877-e7a5-443d-83ce-22cf458e35a9,d9f14aca,70.73,Apple Pay,Groceries,49,Central,0
+e43f72ea-d8bb-448a-ad5b-2953d1200199,0be1efbd,95.4,Debit Card,Healthcare,33,West,0
+ce058426-735a-412a-aad3-90083e312b9e,120aca96,13.01,Google Pay,Clothing,65,East,0
+ce62eb76-5d8f-43e6-9c1b-ebbb1ede418e,bb31bedf,0.19,PayPal,Restaurants,43,East,0
+b3ca2dd1-c627-4e84-b92f-e964ae9164a6,4133f734,110.34,PayPal,Restaurants,57,Central,0
+2f8daaa1-88f7-49b1-b817-7a3fec89f3bb,e48a5f34,7.19,PayPal,Restaurants,56,Central,0
+e31a8fdc-d49f-4a9b-aa35-66fdc28e04d1,a3a1437a,25.81,Apple Pay,Groceries,27,East,0
+678d2a0f-0465-49e3-b456-b21f00e8d026,f8624842,22.78,PayPal,Restaurants,73,South,0
+44024269-b225-4067-9e64-b27ee8380291,24ce21c8,8.97,Credit Card,Restaurants,53,South,0
+f8f47c9f-5d14-4c24-97d1-19d565d22211,8d448611,45.67,Credit Card,Travel,47,South,0
+b8956864-75e2-4568-9e43-330dfafeeeea,059fbba1,125.38,Credit Card,Healthcare,26,West,0
+44b32446-e5f4-4734-a0c1-958bcb53f79c,5693985b,36.05,Debit Card,Restaurants,22,Central,0
+c0ce8433-0b79-4677-aca9-b53898d261a2,7b6f3406,180.43,Google Pay,Groceries,24,North,0
+4b385149-99e4-427f-99e1-d72a8e94ad9d,995a1075,10.58,Debit Card,Travel,53,North,0
+9fd6a384-719d-4d46-9522-9ff8851b130d,bff1f2e2,94.36,Debit Card,Groceries,18,Central,0
+134d9596-afc1-4940-a49e-e2e9e5f69ff7,018a9204,14.85,Apple Pay,Electronics,44,East,0
+e2ea747c-552e-44f6-a033-9e95e9ebd2e4,b858e43a,14.42,Debit Card,Restaurants,29,Central,0
+029854ee-4615-4cde-9396-2f9f4c6a2746,18e2ada4,6.26,Apple Pay,Groceries,33,South,0
+6b90ba02-5505-4fe6-b6b3-525af422e0c9,05521044,99.62,Credit Card,Groceries,65,South,0
+4554a1fc-caf9-4238-8e9b-a7c55f697681,6ece8ec5,64.56,Credit Card,Travel,25,North,0
+75fa6eee-7422-46a4-941a-23b2a4d55d4e,5f8e67fe,20.9,Debit Card,Electronics,42,Central,0
+094d9b37-c1bf-4705-882c-548aae4f21ca,aaaa1d60,21.49,Debit Card,Electronics,30,North,0
+b60b4200-8a09-43a4-9a05-d2cb7631b61d,ce72d54b,93.15,Credit Card,Restaurants,58,East,0
+05b17f96-f3f4-497c-a4de-aaf0ccfa2860,dc279633,131.26,PayPal,Healthcare,27,West,0
+df854493-a9df-4376-98c1-646bdc994a06,35b76ee9,46.12,Credit Card,Clothing,57,West,0
+bc38b7bd-676e-4095-8752-d4cf9acc7c62,42f4ad25,26.11,PayPal,Clothing,50,East,0
+8f30a136-9517-433a-a557-7a2826b64492,bcc80bf0,2.73,Credit Card,Travel,52,South,0
+279b8ae6-9ca2-4807-a5fa-69870c19e5fb,b59644e6,6.77,Google Pay,Restaurants,54,South,0
+02209a62-a24c-4e7b-92f5-9b85a4d2eaca,3dd2e68b,7.65,Apple Pay,Travel,56,South,0
+8f14b693-0136-4f23-ad12-37b283f83e5f,b43195f7,16.2,Apple Pay,Healthcare,45,North,1
+5add5e6c-2ce8-4a36-90da-195a6e0cde48,ddce109e,14.86,Google Pay,Restaurants,33,North,0
+af061509-a75a-4e27-8238-b1e5411755f7,dbcaf65c,39.14,PayPal,Electronics,25,West,0
+de186918-d8cc-4755-8e77-1a87a1cca744,2c26ea9a,144.21,Debit Card,Clothing,50,South,0
+3f90eb45-1da0-4252-9dcb-cbdfb9620d5a,da2c2174,98.9,Debit Card,Groceries,70,South,0
+361b9ccd-146f-4b71-b0be-aa2bce186544,7e668050,35.58,Apple Pay,Clothing,52,East,0
+91475776-7984-4c83-bd7f-42553d7737c1,f300aac7,0.87,Debit Card,Restaurants,72,West,0
+542ee49f-e66b-4e50-8ef2-c519be9f9789,593f3c83,3.54,PayPal,Healthcare,55,North,0
+98729367-bdca-47d3-80d2-83e61f4d10ed,0002986c,98.43,Debit Card,Clothing,29,West,0
+ecab175e-79a5-4577-bcef-92cce64e101c,f90e6237,16.68,Credit Card,Groceries,32,South,0
+3eb4eb3e-2540-47a0-a91e-7027cff24b4d,be23f9b2,19.14,Google Pay,Electronics,34,South,0
+6dcb198b-3a35-486c-9bcd-f9e8e942f4a5,9d662be4,7.53,Apple Pay,Electronics,44,North,0
+f5f76880-0dcf-4ac6-b782-50bf839401ec,0535d6c9,12.62,Debit Card,Restaurants,67,North,0
+2d14133b-1a6c-4670-8ff4-2f6ca17b4293,30cf500c,14.2,PayPal,Clothing,38,West,0
+c14786ac-869f-468e-a544-fc7f4fc99ffa,dda90581,26.56,Debit Card,Restaurants,38,Central,0
+3b667475-8bdf-487f-837c-bedad8a3dde1,fa9f8e9d,48.79,Google Pay,Clothing,34,South,0
+a9f4ae11-c29c-403b-8e88-72a6f84f95a6,bd68123e,21.78,Credit Card,Travel,44,South,0
+1a465db9-9919-4c48-9251-6bf7517eb2f8,ae5cc291,29.88,Apple Pay,Restaurants,29,Central,0
+f7dbe024-bd63-407e-a1c2-6af2bbcbf706,c02405c9,10.04,Apple Pay,Clothing,65,West,0
+0d65e9f8-ad63-4923-a39d-226915d303ef,d11d2181,2.9,PayPal,Travel,61,East,0
+ebc76bd8-77da-4c46-877d-9d6ddc0e5daa,d563e5f2,21.4,Credit Card,Restaurants,53,East,0
+820e9bd0-d2d6-481a-8222-f0627d9b4f1a,55c18010,3.23,Debit Card,Electronics,45,South,0
+dab3c9d3-0450-4eac-970b-e7aa4f457bdd,882168d7,17.81,Debit Card,Healthcare,42,East,0
+b3b0ca40-dc1e-48ea-b8b5-bee11391cd0d,faaf7ce2,90.88,PayPal,Travel,26,West,0
+868e8664-0d67-43d5-a567-5e49145946a1,98157688,22.86,Credit Card,Restaurants,64,East,0
+2660df46-b5be-44a4-b7fd-9e06a263a971,09d0b746,10.74,PayPal,Groceries,54,North,0
+1adbfda9-bd92-4997-aab1-19b9cedc6f2b,e52482f9,116.17,Google Pay,Healthcare,40,West,0
+c1eca5dc-7ab1-415c-901d-6e39e7b3adca,2ac0f9e7,50.99,Google Pay,Electronics,28,Central,0
+feaee7c9-4bfb-42ef-9f64-da1859bed99c,a939cd1f,222.2,Debit Card,Healthcare,67,South,0
+d7e6a4af-325b-4479-aae6-f1c739ff4705,604f1be5,17.85,Google Pay,Healthcare,18,West,0
+d73c6cde-a093-47c6-ba29-02ba85019088,daef5b98,11.18,PayPal,Travel,33,East,1
+626e3080-a71c-4830-b305-d46f4d9411fe,0a5bb97e,17.69,Apple Pay,Clothing,67,West,0
+f6d4c503-98ba-4e42-8d61-b4f080db305c,0ec87376,83.7,Google Pay,Groceries,30,Central,0
+8498addb-f186-4d46-af60-ae87ba054604,aedeb6a5,8.22,PayPal,Clothing,37,West,0
+87d908a3-5930-42bb-b20d-be7c2ba3985c,3c1b3479,13.79,Apple Pay,Healthcare,33,Central,0
+843f152a-7989-4be9-b1c7-d4158037acc3,a72ef61e,60.47,Apple Pay,Groceries,71,Central,0
+4ae74629-725c-4a68-b7d8-5409bf30daec,aa101ab9,66.97,Google Pay,Restaurants,33,West,0
+72a9a64d-2ae6-4873-a43c-72c0bfb72db3,c889529a,159.52,Credit Card,Restaurants,52,South,0
+cee3670e-9aaa-4305-9be3-8d87e489b721,ae0a1239,195.98,Google Pay,Clothing,67,South,0
+fb372b2c-2705-4ca2-9f9f-3aa2d4e4867b,e465b612,54.46,Google Pay,Healthcare,49,East,0
+49894816-fd6d-41e6-b31d-cb2fc2e674fd,6dde906d,22.53,Credit Card,Clothing,40,West,0
+046b770a-177c-4e2b-9062-8025bacd5acb,faae5137,30.17,Google Pay,Clothing,73,West,0
+ae33bee9-1f56-46b8-aaff-ce433ceb1939,aae0ca4e,28.93,PayPal,Travel,42,North,0
+af79277c-1b4b-4874-b5ae-b9bb6c8fb616,c547165b,24.5,Credit Card,Healthcare,60,South,0
+98e87a24-bc36-426b-a0b3-53d8b60b1a58,e087a3b8,20.64,PayPal,Electronics,45,Central,0
+1f6247aa-531e-4a27-ac1d-31641a8a7df0,f74f3a20,9.19,Apple Pay,Clothing,62,North,0
+70807a71-bdf0-4c34-a6ee-419eb655288a,986b3262,22.8,Credit Card,Restaurants,73,West,0
+2d396b2f-5e68-495d-bd99-6351032905e9,0504b1ee,174.06,Apple Pay,Healthcare,19,North,0
+f5db8a3a-9c40-45eb-a535-0e3c85bb5b45,513acecf,106.92,Debit Card,Healthcare,20,South,0
+a5de3fa9-01c9-4004-8345-4793f06d4ecb,092f91d6,48.03,Debit Card,Healthcare,48,West,0
+5fdf7eac-216f-4fe4-a8b8-43b0048d92c2,72601394,10.71,PayPal,Restaurants,50,South,0
+16b350ae-e5b7-492d-8940-b99ccd4712c8,2d0b3419,105.46,Apple Pay,Clothing,50,North,0
+51b73efa-29c0-4a2b-a6b8-3aa76bd54fe4,028e2da0,18.69,Apple Pay,Healthcare,64,East,0
+75a3a591-fbd3-4465-b9a9-a2c8e0edbaa0,c51ddc48,39.45,Credit Card,Healthcare,71,Central,0
+0f8d3c8c-f91f-4402-a439-1cd51a03ad66,3987d4a3,121.4,Debit Card,Clothing,52,Central,0
+66c88232-e073-4a44-ba10-ddcd8a1baeda,1bad249a,20.38,PayPal,Restaurants,53,East,0
+9b89a36d-4313-44f2-b4a2-ed6ce66832ac,b1c7066a,122.29,PayPal,Travel,43,East,0
+5a151db1-f029-4a1c-85d6-703206df2d89,6cfa73a9,13.4,Credit Card,Healthcare,29,East,0
+0633d5e8-fbac-42e5-b56b-48862a08b030,e5751b79,132.05,Credit Card,Groceries,73,South,0
+12d1eea4-3ebc-4ecf-866c-e2439056455a,6412f8bc,22.21,PayPal,Restaurants,70,West,0
+d6fa06b9-fc04-4709-8d2c-071ad4729153,5f823f08,23.47,Credit Card,Groceries,61,East,0
+bcc08e11-5b44-4e5e-8639-ef1a1302a9f4,42b73456,40.26,Apple Pay,Clothing,63,South,0
+35f99eca-c8e7-40f4-81e9-fe24679e3676,912855e4,21.31,PayPal,Electronics,28,North,0
+e629b883-cd88-42a5-ae04-af2949f8aa81,13a95412,29.89,Google Pay,Clothing,23,North,0
+10773713-014f-4a44-aefd-351f3d5caf42,df953a9c,34.79,Debit Card,Clothing,42,East,0
+f83bd583-d15e-481e-a70a-ea0b547ac6ab,adae1baa,33.77,Debit Card,Clothing,63,North,0
+5b1e01c0-9ff4-42c6-8d15-9ead0463d75d,cf1053d5,162.35,Google Pay,Healthcare,51,East,0
+722a25cc-3f1a-4856-981a-b7045cc51173,217c8a84,16.55,Google Pay,Restaurants,52,North,0
+9f8b9042-9a15-4e75-afee-beb1b47eea87,7437c03a,16.74,Apple Pay,Restaurants,38,North,0
+41da922f-c54a-416c-b2ea-04015b232a14,90055e50,90.98,PayPal,Electronics,35,West,0
+421a0f9a-4cbc-4732-a974-0815fef83435,7a64c879,24.88,Credit Card,Groceries,25,West,0
+3fda4b1b-aa00-43fc-a9db-9ab70cafb9e6,00629857,3.8,Debit Card,Groceries,51,North,0
+63bfc6f2-5054-424c-8cda-7566557f3d52,81514755,32.82,Google Pay,Groceries,69,West,0
+4a04adaa-b44d-49d8-8d75-77d5150fbaaa,0816f7d6,39.95,PayPal,Clothing,65,East,0
+aad08dd2-6539-434a-8ccf-0bbb87d3475a,497d7501,48.08,Credit Card,Electronics,31,Central,0
+5b593662-8f37-4119-9ffa-4b13fbcb6d71,a1a4eae0,13.4,Debit Card,Clothing,36,East,0
+b0c8d47b-c0f4-428a-930f-1f7dfb86285d,5cf127ba,181.08,PayPal,Electronics,37,West,0
+0dcef7fe-1319-4844-9dd1-aafee912644f,ce476298,66.78,Debit Card,Travel,21,South,0
+ce82234e-fd4b-459a-ac85-f57ece3c2f1f,0053c879,63.67,Apple Pay,Restaurants,55,North,0
+935d5405-34d4-4213-8520-7cac65a3874c,06d6cd72,103.13,Debit Card,Healthcare,49,West,0
+8a8ec286-c743-436e-9459-34f461cc6cee,9f05587c,1.32,Apple Pay,Healthcare,43,West,0
+7b82c3ad-3558-4901-b099-644dbff31676,c3e301a6,47.48,Apple Pay,Healthcare,45,West,0
+f256df00-592f-4bfa-b775-8b0a9ebf86f1,0f569cea,85.14,Apple Pay,Clothing,29,East,0
+d235537a-5eb8-4807-a507-ce66d12ca8e7,cfb73ae8,1.75,Credit Card,Travel,27,North,0
+ee44d230-73f9-409b-b1a4-33b66247600a,fb21c372,70.56,Credit Card,Groceries,58,Central,0
+5a42ace0-bafe-4384-8400-baf714bae728,e6b3fe56,228.77,Apple Pay,Healthcare,52,West,0
+08537c04-4c4e-4420-a84c-4a221df4689c,6fed4ccd,45,PayPal,Travel,50,South,0
+318d2dfa-d92b-4b51-9959-023a0e4b631b,83e95e2e,27.64,Apple Pay,Healthcare,31,North,0
+12de70f4-d466-4350-b287-c2fdc927a5fc,58780454,30.22,PayPal,Restaurants,57,Central,0
+233b126f-fba9-44f9-af7c-f4c3b9dc0da2,2a0d068a,56.89,Debit Card,Healthcare,40,South,0
+1245007e-08e5-4966-80fe-8f020cf376e0,766700b9,42.19,Credit Card,Restaurants,35,Central,0
+5575f37f-2b4b-4c25-b55a-9acd643cdf0f,9ddd47df,77.46,PayPal,Healthcare,70,Central,0
+79a98c0e-a085-4f2e-878b-7e9a0bba7c01,d4f8405e,27.38,PayPal,Healthcare,61,North,0
+5bb44a32-3269-4d21-9392-0984169d94d5,941419c2,27.01,PayPal,Restaurants,29,East,0
+b99fe13c-5fc3-4fb0-85a7-ceb13be20ca4,2f46b2f4,68.51,Google Pay,Healthcare,59,South,0
+1a707f39-6aad-4719-8a3f-9c5a03119b0d,08b3c094,51.85,Credit Card,Travel,53,West,0
+0232cf13-ccd8-48e0-9a39-72eb464e85c2,39609edd,75.28,Google Pay,Groceries,42,Central,0
+bbf8f07c-baa0-4c7e-b148-4d6281c809ed,01eceee8,109.09,Debit Card,Clothing,69,South,0
+7e8af83f-a284-4fd6-9da5-d6c365266fc4,0be1ca82,15.29,PayPal,Healthcare,54,North,0
+97c223bd-16be-47e5-bf13-460a7afdf2e1,e27fda5a,18.92,Credit Card,Groceries,57,South,0
+60a99f02-e873-41a2-a498-6ab116e57be7,93c4cb8d,37.43,Credit Card,Electronics,68,West,0
+5c8d9222-5b07-4ef5-9b7a-1f55432fe706,8af0f97f,133.29,Credit Card,Electronics,39,West,0
+2fff32b0-1461-4fa1-b85d-828647e3709f,c0283cf9,90,PayPal,Clothing,23,North,0
+2a284570-224d-4b65-8401-600fbcf91cab,1fb6b822,31.6,Apple Pay,Healthcare,33,South,0
+efe79eeb-38db-4f9e-b789-dd73770ab7aa,2320d19b,42.56,Apple Pay,Healthcare,40,East,0
+b48b2eb5-9dff-4781-b838-b6ae770b9259,c23a94c1,62.29,Apple Pay,Restaurants,26,East,0
+62bcbe1b-b192-4b5f-acf2-f3785326fb58,c953efe2,36.98,Google Pay,Clothing,60,Central,0
+2d09d601-846f-47e2-a8a9-9758b0ab8762,3e625669,5.18,PayPal,Travel,52,Central,0
+84268f80-8200-4070-bb2a-5231f1c44b7f,e8accee9,21.75,Debit Card,Healthcare,46,South,0
+f654115f-070c-4109-a3e7-18ba3d4ead83,f6fc5d5f,2.44,Google Pay,Restaurants,31,Central,0
+6783c4c8-cce0-41cb-af50-e705e2988bc2,75b111c6,55.41,Credit Card,Clothing,22,West,0
+0d1cca54-59ee-4d09-b702-2fa0286d6364,724409e2,20.56,Apple Pay,Clothing,38,North,0
+53bdfb98-8668-4d9a-8ed5-ef9f48c19b15,86e982b3,67.04,Credit Card,Travel,70,Central,0
+43076baf-1fd4-4a6d-b1f0-a4ee921e3d73,fa1ef7ab,28.08,Google Pay,Travel,23,East,0
+bf1f6231-50c7-4053-b10b-ada215029823,d29f90ab,2.33,Apple Pay,Groceries,18,West,0
+5852da6b-aea4-42dd-ae02-5e4ecaeeb76a,f944428b,23.87,PayPal,Electronics,48,East,0
+bc180e0c-77ff-457d-b1c6-29f2445e6dc1,fe8a016b,12.34,Apple Pay,Clothing,62,Central,0
+13e86337-e433-494c-b9a7-8f3efddac0c8,e0dc0216,12.06,Apple Pay,Groceries,58,Central,0
+698a7a5e-f9db-4f4f-8a18-cc46d7a491da,0a345ecc,23.71,Apple Pay,Restaurants,45,West,0
+50315284-2580-4b4e-9c96-3f101c97f853,b1b46448,191.58,Google Pay,Restaurants,20,East,0
+6ca1a17d-f16a-4d1a-9c98-70bb72672e3d,ac37f549,161.03,Apple Pay,Electronics,55,North,0
+c1c7e96f-aaab-44ad-aeb9-1e8b1ba4eaa5,725dcd22,81.34,Google Pay,Restaurants,69,North,0
+805baefd-c016-47e3-995a-7589f2aae946,45a52f23,14.08,Credit Card,Electronics,40,West,1
+2373002d-694f-47c7-93e9-ac6757e4c4f0,42bde57b,72.18,PayPal,Restaurants,57,Central,0
+7f3ab9fd-2da4-4730-9d11-8782985a34e2,592662da,0.77,Apple Pay,Restaurants,21,West,0
+ad1c6412-8631-4e03-af2a-6b0bf5a4588d,f5f6083a,2.9,Google Pay,Clothing,23,East,0
+3050f033-a0c4-44b7-baf0-9db4ac390abe,64551258,90.31,Apple Pay,Travel,29,North,0
+9413d161-874d-4869-9b69-a92de689cabd,7f80c249,41.53,Apple Pay,Clothing,29,Central,0
+402bae8e-dfe1-4aee-a453-1d73c3e7387a,bf3e1a86,23.36,Apple Pay,Groceries,24,East,0
+9ce4978c-fdfc-4371-a3e1-0816a9bb4929,76e71b25,67.44,Debit Card,Travel,45,North,0
+5f5e4331-0b69-4d4f-872b-0e0315785781,95243684,6.07,PayPal,Clothing,43,North,0
+37066b07-c7e5-4ece-afb1-272eb026539f,f9368c73,16.89,PayPal,Travel,65,South,0
+5f0d07c6-ebff-4a6a-8458-424d912dfe3b,afcf3559,65.03,Google Pay,Travel,24,Central,0
+90ccc27f-6ea1-4cec-9b24-46a006945d6a,ecc0a222,11.61,Credit Card,Travel,74,West,0
+9ed8f7e0-f2ae-4d99-bcda-76007818ac89,b966d11f,45.89,Credit Card,Restaurants,73,South,0
+9c46088e-eb9c-4eb4-a71a-dcf9926124bd,216a9489,29.68,Credit Card,Travel,20,North,0
+d31e1d30-b847-4712-ba6c-344da94d34ae,89d1328f,11.31,Apple Pay,Restaurants,30,Central,0
+c9756c3a-b55b-4b5a-ba2c-bc3d2c4240b5,ddacc94e,109.63,Google Pay,Healthcare,69,Central,0
+2033ef19-781b-417e-ba1f-30fd02b7dadb,b8237803,28.59,Apple Pay,Travel,58,South,0
+2dd7098c-350e-419f-a12c-b2a798d89e21,136932e7,45.67,Debit Card,Restaurants,28,East,0
+1f8503d6-95d8-4282-b7b4-bc8e51149202,18c0a359,14.59,Google Pay,Travel,56,East,0
+6a918b67-7813-49dd-8c80-52dc2ca365af,dd7c04b0,21.29,Google Pay,Groceries,40,West,0
+cf5958b1-2edd-4825-af22-53ab718cb3f3,4c165f04,2.51,Google Pay,Clothing,64,Central,0
+016cbab5-9c52-4bae-9854-bcb80bd185c9,d1ed4878,33.01,Debit Card,Healthcare,18,South,0
+263375d0-6dd9-40cb-8b4f-75a5edc3ab68,7966df7f,21.14,Google Pay,Travel,51,North,0
+7724fa71-cfd8-4b0f-9630-2a1f46390da9,0b6df45b,19.98,Debit Card,Groceries,48,East,0
+9cddd416-b30e-433f-9e84-24713c5ed7b3,83c757c2,110.34,Credit Card,Clothing,50,South,0
+90128621-d214-4da2-927f-8b1680d16c1a,44c786d6,60.85,Google Pay,Electronics,64,West,0
+71332662-eff0-486c-ab74-171f9a748206,738fe868,30.56,Apple Pay,Healthcare,53,West,0
+0a27cbd4-cd4e-4676-99d8-186af6f19061,0cbbe6af,10.87,PayPal,Healthcare,53,Central,0
+502b358f-9b0a-49e0-8434-c77fd4abfd20,1cccba00,181.06,Debit Card,Travel,31,West,0
+944187f1-6101-4222-8509-608b0a8b5897,6e6be10f,3.89,Credit Card,Electronics,54,West,0
+24dad638-afbd-479a-b4c1-eda5ca72ba04,b7c33844,7.32,Credit Card,Clothing,49,East,0
+80d9e797-6261-4fb3-a401-99606617b91e,f63ac0eb,15.76,PayPal,Clothing,70,East,0
+4a8a7850-ca95-4da7-980a-4283ce96bbe0,cf1d4df4,154.53,Google Pay,Travel,45,West,0
+3c23e446-e7c0-4b98-b192-d8678df95948,d0f3442f,16.35,Apple Pay,Groceries,18,Central,0
+4fbb5f95-3d25-462f-9741-3ce41065462c,ede3aed9,33.81,PayPal,Travel,64,East,0
+b8d7c2e8-d4b1-42a9-a589-8e13527610bc,5baaca5c,71.6,Google Pay,Groceries,24,East,0
+9fe5b98c-d8b4-4c48-96b9-0f6b0b81fe57,5dc8a80e,132.38,Google Pay,Travel,33,West,0
+a21f9f5a-869c-4227-a9e1-24bbcea05734,30a2792d,46.45,Debit Card,Groceries,71,Central,0
+e2f95c7e-7bf8-4b14-89d9-af9dd277aa84,4924de86,24.25,Apple Pay,Restaurants,49,West,0
+de98d43a-2785-41df-b916-68586c77b98e,03fae5bb,211.71,Apple Pay,Groceries,41,North,0
+7d15f00a-d1e1-47bc-8ad2-66f26f5d5d72,610c4c47,1.33,Debit Card,Groceries,31,North,0
+b5df9569-9db1-495b-bf4f-338d878576fe,e2312e1d,89.24,Google Pay,Clothing,64,Central,0
+6d003949-52c4-4f8f-8138-62a70214889e,8f31972b,16.25,Google Pay,Electronics,32,North,0
+01019288-8b6b-4220-bb3a-8b78059afea6,28eceef7,85.04,Apple Pay,Travel,69,Central,0
+4fa6dab7-e252-42d7-a80d-dcf89f65e7e3,0256e0d1,8.85,Apple Pay,Clothing,18,North,0
+7f28d338-6055-4d48-8ad2-8b77d54f9f86,3df56946,21.3,Apple Pay,Electronics,45,South,0
+4ecf3eb0-33cd-4717-b9ae-cc83be0c6e8c,811c1f5b,2.88,Apple Pay,Clothing,36,East,0
+e7d8e606-34e7-46b8-ab99-231acb09ece0,8f878199,11.13,Google Pay,Healthcare,74,West,0
+275ee459-5bbe-4ef6-9084-7f241fbc6123,9e4ea66c,46.16,Apple Pay,Clothing,24,Central,0
+9c4e3a58-8598-4d8f-ba3d-12e0f0111eef,88b2c728,71.67,Google Pay,Travel,35,North,0
+5bb7e5e1-a816-4805-a760-28ab735f389b,6099bcad,121.08,Debit Card,Healthcare,64,South,0
+e72782c4-d0a1-40b6-8987-e32dc3331777,04e124bf,6.37,Credit Card,Restaurants,30,North,0
+603eeef8-2d54-43b8-9371-028f93aeac7d,e7c3d46b,7.57,Debit Card,Clothing,68,South,0
+01bd1744-7122-4164-a28e-c4672ead79ac,9b9b00c1,139.66,Debit Card,Travel,35,West,0
+113f83d5-0152-4608-bef1-294aade124dd,aa97586b,72.62,PayPal,Groceries,21,East,0
+351d540d-0f58-40ea-99ca-00a5aedec996,a0e30588,38.8,Debit Card,Electronics,67,East,0
+afef97ea-da71-4dfd-be22-cf1a968cf1b2,585c0ba1,32.38,PayPal,Travel,21,South,0
+5122fc13-e81d-4bf3-b735-19d44b8e4513,0ad66aaf,8.58,PayPal,Restaurants,44,North,0
+1c745814-13fd-4e2d-b575-398fda51a4c8,261f35dc,23.85,PayPal,Travel,33,East,0
+bf7a943d-b147-448d-bc0e-2a363a7cc6ac,e564694c,23.31,Debit Card,Travel,31,North,0
+df09d5e1-b409-4f51-8a3c-aab9c2f871fc,c841f94b,52.26,Credit Card,Groceries,31,Central,1
+5a170bea-cd78-4923-bab2-b1d2df36f913,9a591bad,45.68,PayPal,Electronics,24,North,0
+34c6fd8f-0f29-4657-a234-657faec98ae5,91a5804f,3.08,Apple Pay,Healthcare,62,Central,0
+22bc1645-68a2-4cce-9e17-9724b8df126f,d2df004c,94.35,Apple Pay,Electronics,73,Central,0
+21d65f27-057c-4922-9c47-9c6e25646ee6,90cf5e1a,138.67,Google Pay,Restaurants,31,East,0
+d11c0e2d-c920-432a-b19a-46c871e2ce66,f782ce63,75.75,Apple Pay,Healthcare,59,Central,0
+3e8bb599-a8bc-487b-bf84-40a9c819ad10,f1b5ebf6,9.82,Apple Pay,Healthcare,62,North,0
+3f4f620f-bdd1-4106-8c52-479ba89d4e13,ccda5506,9.45,PayPal,Electronics,23,West,0
+a1d06d1c-1ca8-45c5-8444-d1ee386f92cd,59457b24,64.75,Debit Card,Groceries,60,North,0
+b1c11ec5-adc9-4d3f-a912-3973e48a8526,13de0953,29.07,Apple Pay,Restaurants,74,South,0
+7c539546-6891-4bf3-b478-0abb2e81b7a0,768e3f18,75.44,Debit Card,Groceries,55,South,0
+9d748b39-479e-49ea-abc4-6a173b9e8d5f,a94da97e,3.92,Credit Card,Groceries,44,North,0
+e53a3f50-fce9-4686-81cf-9d685bbdd16f,f04a1ffb,63.02,Apple Pay,Healthcare,28,South,0
+4aa54cd5-e008-4da7-b256-1cd5554bc4ca,4c0f7a9b,27.59,Credit Card,Travel,48,West,0
+f6f9c88c-6e9b-4c2c-96a7-9b6b4835ce5c,229b989c,1.57,Credit Card,Travel,68,South,0
+2206cdc7-e9bb-4418-9afe-dcf84830f431,e9275238,39.39,Google Pay,Travel,66,East,0
+ad7c3f15-aba6-4d91-9d11-b96ba97a9cdc,149034af,60.04,Debit Card,Healthcare,74,West,0
+59b7ab74-2300-483f-9a1c-468f90f6d77f,6d29b3ec,37.56,Debit Card,Clothing,20,East,0
+2dcf270b-4b47-43b0-8625-674967aa73bd,bb3df7d4,6.56,Google Pay,Groceries,18,East,1
+ab4ed1bb-9fc9-425e-92ec-1876b51bd7c1,87b7ebbf,84.62,PayPal,Electronics,33,West,0
+e305df7d-63ff-4d66-9497-1131d55beade,4a727520,19.07,Google Pay,Restaurants,61,East,0
+58cecfc8-20de-462f-9351-9d8bb90fae48,da3f4831,127.21,Google Pay,Clothing,44,South,0
+f56614aa-a5c1-44ba-afe7-da2a5f66a2e1,f368332b,118.69,Google Pay,Travel,63,North,0
+cfbf0f82-a929-4e8b-8de6-501b9f11046e,35608663,11.18,Credit Card,Healthcare,67,West,0
+a23be141-fa91-42dd-8183-6e1307eb66a9,86fc474c,32.35,Debit Card,Clothing,20,North,0
+5e658364-a9a2-41ec-a659-4e94981029d9,1c14227a,7.39,PayPal,Healthcare,73,West,0
+04d79969-58e2-411b-a095-5eaa2bd2cfb0,0c341b08,56.62,Apple Pay,Clothing,25,West,0
+d8c53ad9-7612-47ff-9bfa-53835f472195,346c06be,95.5,Apple Pay,Groceries,67,East,0
+7dab9148-6044-49c7-864d-bada27716f91,47e47cbc,52.26,Apple Pay,Groceries,33,North,0
+c98a004f-2263-4ae3-99b7-310a66bd9983,106039e1,15.09,PayPal,Healthcare,64,South,0
+48cdcb99-c2a6-48e0-8cac-76d89172b97d,596663ca,3.97,Apple Pay,Electronics,71,North,0
+9a2c5373-fc29-4ea2-9744-e23c3a637ecf,f3eb4a38,3.59,PayPal,Restaurants,19,West,0
+6363a508-a77f-4630-9493-906f0e91633b,d304ece9,47.2,Apple Pay,Restaurants,46,South,0
+71681b21-5db3-4811-bed2-9d61a5833649,e73546c1,153.23,Apple Pay,Travel,33,East,0
+0cc653fb-75b3-42f2-870b-e30f7af4cb5f,5eac026e,59.42,PayPal,Electronics,72,South,0
+59813232-c6a9-4dba-8529-09276dca4cd3,cb2c28bb,65.58,Debit Card,Restaurants,46,South,0
+cfee34e1-6479-4e58-b1c8-a1237f958357,94ea42ae,19.97,PayPal,Clothing,48,North,0
+00162250-17ae-4f29-8364-ca3e9f5ff48c,0656e885,44.1,PayPal,Clothing,59,West,0
+e6234040-7db2-4a3c-a346-2364949c6b60,edfd3c1d,19.03,Google Pay,Restaurants,28,West,0
+890207e2-8511-4282-817e-004c5f254c84,f0af1c2d,115.97,Credit Card,Clothing,68,West,0
+96d0a366-f3c8-4130-aed5-9d124ca2106a,022b0039,7.11,Credit Card,Healthcare,49,Central,0
+fbfc93e6-6de7-4a4d-bbf4-c63faae0ec42,d698e037,49.99,Debit Card,Clothing,41,East,0
+872acbab-74ea-4751-b169-017fd752537b,49667c08,65.62,Debit Card,Healthcare,36,North,0
+121f9fa0-f39e-4488-a60a-62b00035c278,f7095d92,59.95,Debit Card,Travel,49,West,0
+f2ff431c-5ac5-4686-ae3b-fa0815b4c8fc,bbe0644a,14.87,Credit Card,Clothing,27,South,0
+3baa4c0e-df9d-4416-9426-d1e77a7668f1,f5454c8b,33.28,Debit Card,Healthcare,71,Central,0
+b4cd5b82-be36-4888-af9e-d0626e5bc598,de1fee6d,54.44,Debit Card,Restaurants,66,East,0
+db3b8ba2-57c7-41a8-84e7-6cd5fbf285cb,ea19d661,133.64,PayPal,Groceries,73,West,0
+602cacd5-beb9-4bd9-8b91-57315cc58f70,679013d9,34.62,PayPal,Clothing,49,Central,0
+bb4cafc3-07a7-4a44-8fed-4a352e3f3aea,7c3fef36,17.87,Credit Card,Restaurants,40,East,0
+cfa23388-a764-47df-b69a-3958d2fe1824,6a533621,24.43,PayPal,Clothing,50,South,0
+dbf6fe94-75de-44a2-9bac-367666d44c4f,d5ea4d24,38.97,Debit Card,Electronics,47,Central,0
+df69f090-313a-41ba-83d0-fbe5f0e7d801,c61a98fe,187.24,PayPal,Healthcare,47,North,0
+dbca8b45-7125-4cb1-b658-28e49d919004,322aa614,49.49,Google Pay,Travel,24,East,0
+15cdbe23-3353-4894-8c69-e631f169f032,9f3c28ef,8.41,PayPal,Groceries,33,Central,0
+91c6696d-1f1e-4728-992c-6b72537bb4f9,e93ac59d,92.62,Credit Card,Healthcare,60,Central,0
+f9751849-8753-4bf4-85d1-96795e66314e,b29c2253,10.01,Debit Card,Clothing,70,East,0
+b7eb5ba9-5766-49c1-95e8-8df4bfc9f0de,bbfda1cf,1.98,Debit Card,Restaurants,67,Central,0
+fe6dee4f-932f-4534-9900-6e06079009fc,b3e649b4,5.28,Credit Card,Groceries,18,Central,0
+001f53ef-0e49-4214-812f-82c28fe4b379,a5aa03cf,77.12,PayPal,Clothing,47,East,0
+c366322b-6b03-4f22-b179-55e10d359fb4,ad5e0223,116.09,Debit Card,Electronics,51,South,0
+a2f47c39-413c-4391-9d07-7d717775f8dd,74134c24,15.61,Debit Card,Restaurants,71,North,0
+cf453d24-19bb-46e5-bf8b-bde48df94eb7,0e6a67ed,34.47,Google Pay,Travel,51,East,0
+5b41bd0a-8623-4bea-8a0e-391e870d5405,24015766,45.47,Credit Card,Clothing,55,West,0
+9d49d884-4293-4386-b84b-d5466b0da9db,49010f5e,27.12,PayPal,Restaurants,48,Central,0
+5d3358b6-fa85-4511-b95f-e74ac3ba2a55,1c46abd2,3.38,PayPal,Clothing,73,North,0
+cca31b11-4334-424a-b775-fc9e6cde1ef5,e9aaf288,2.92,Debit Card,Travel,25,North,0
+437d5200-6261-4c2c-bc4e-8790e8ac8677,1b7e1453,29.02,Apple Pay,Electronics,71,East,0
+1ea088c5-b85d-411e-b5f5-a150a091e32e,d17f3dfa,79.94,Google Pay,Healthcare,70,West,0
+add88486-9539-46c2-b3e9-4f1f46c8abca,7af074c2,4.42,Google Pay,Travel,37,West,0
+a0bea571-d7fc-4cc5-8db4-c3ea93dc528c,2f3d77ae,11.51,Google Pay,Travel,63,South,0
+b412f13f-44d0-4e8e-8939-9c66b8801133,e91b390e,15.72,Debit Card,Travel,71,West,0
+11735171-74de-4eff-bb0b-9b86e0fbbf65,c10b7b04,40.95,Credit Card,Healthcare,46,East,0
+1adb5f5b-bb04-48ed-be01-b95d047b4256,4b2f2742,2.21,Credit Card,Groceries,48,North,0
+22acc85a-c8cb-44bf-8f59-163f0a251e8a,321e8a61,98.32,Google Pay,Restaurants,38,North,0
+342b3efe-1a26-4d78-8ce4-be0baf723119,fb709007,31.81,Apple Pay,Clothing,43,West,0
+df9de1ac-b3fd-4fb9-83ef-444b46ccff76,b8b5d879,33.2,Apple Pay,Healthcare,48,Central,0
+38b7165b-9877-4adc-8b94-a30751491448,d2f173f6,19.76,PayPal,Electronics,37,South,0
+6ab2f9d0-6a46-402a-9d2b-2186e0894575,2559cb9e,11.91,Apple Pay,Clothing,39,West,0
+a28bedc9-dfc6-4a09-a1e3-384d2ce1aebb,c6ae72b4,22.6,Google Pay,Groceries,74,East,0
+0383375e-9f6b-40a4-b29b-d273fe2c29cb,38387a13,122.32,PayPal,Electronics,74,South,0
+743cbd9c-4ddd-44d9-9a85-a8adce2e3a88,1b36b1a2,4.95,Google Pay,Groceries,57,West,0
+f4e99d16-fb6b-486a-9a31-643945ada19d,e17516b8,3.13,Credit Card,Clothing,43,South,0
+082234fe-8010-4bf4-b383-1e6f66b6f7c3,ae914138,6.08,Google Pay,Electronics,34,Central,0
+6e9761de-e529-467f-ae91-292fdf4c2086,b746b9e4,75.02,PayPal,Healthcare,42,East,0
+0f71fb6b-0b43-4cbb-b67d-4570134ca6aa,feba8dcc,2.48,Google Pay,Clothing,54,West,0
+20c2e4eb-5233-4cda-bc75-c366fbafcf19,68a4e221,20.26,Debit Card,Restaurants,44,North,0
+59185060-2202-4054-8efd-e4734f9deb94,ea59145a,27.66,PayPal,Groceries,20,East,0
+38fdad41-ef4c-4550-bd15-11154dc68925,3d59c5ef,35.37,Apple Pay,Restaurants,73,Central,0
+ebd4fb7e-3d3a-4c28-a09d-c33b16e42edc,69b1fa23,0.16,Credit Card,Restaurants,41,Central,0
+46410364-042c-4675-8419-57f3d34e294e,717b34eb,33.35,Apple Pay,Clothing,42,North,0
+f1fbc04f-089c-4502-830a-2f7ce8b2b0c3,81a3d8b6,10.84,Google Pay,Clothing,67,East,0
+3dbee4af-76d1-44f8-89d8-a2ba6d2f5c46,403ad5da,5.15,Apple Pay,Travel,27,West,0
+6bd579fc-9c49-4605-b7f0-7a2d931c90cc,155f470f,38.1,PayPal,Travel,53,North,0
+b2ead092-b779-47e1-b51c-3a6c4415bd6c,3bc723ee,68.16,Debit Card,Electronics,59,West,0
+f766a02b-e737-490a-b924-25da609c0509,fa47f0c0,136.48,Apple Pay,Clothing,35,South,0
+c1783bd8-c5ed-4b6c-a45c-95eb26b198d9,358db38a,121.9,Google Pay,Groceries,62,West,0
+ee70c91c-cec7-4d5b-857f-4a1eef2e4c62,0413e0d7,25.46,Apple Pay,Clothing,71,South,0
+743ee51b-f40a-4a8b-b80b-1d5af5b2e904,644243e5,60.88,Apple Pay,Clothing,34,West,0
+9682ce44-a9a3-42e3-ab36-cbe8c24c3596,9aa8af33,59.47,PayPal,Healthcare,31,South,0
+e702bd57-fdc3-46cd-8d08-89a7fecdb84c,89968365,26.56,Google Pay,Restaurants,36,East,0
+1b67f434-96c0-4c28-90b2-190f6ac0590d,84fabe52,5.17,Google Pay,Restaurants,35,Central,0
+f6d8f692-c224-4c2f-9f3a-e7347cd65028,5c9203a1,24.06,Debit Card,Travel,40,East,0
+90a476f8-8f2d-4529-8793-d1661b176cb7,255f5842,243.7,PayPal,Healthcare,25,North,0
+a831e806-ef7d-4540-b95c-3084c74f7ed2,2fc5155a,40.49,PayPal,Electronics,67,East,0
+84083416-c0d9-4342-83b3-1b89ef33e0f8,f6339a6a,20.88,Credit Card,Electronics,33,East,0
+e450ff61-6b4c-47c8-8542-5abe028d1400,f2702f56,68.09,Debit Card,Clothing,42,Central,0
+87992c9b-7b6a-49d5-a00d-24a71b9fff24,b2816a6f,57.97,Debit Card,Healthcare,60,East,0
+abce6799-2078-4895-bf75-0a11641e5881,a2e838a0,43.23,Google Pay,Groceries,49,North,0
+c0181558-7aa5-4bec-b51f-3b139b2f0fcc,2434dfb8,50.73,Google Pay,Restaurants,66,East,0
+d4f395c6-fe35-4e48-bd53-26a4718efcb3,73ea208f,43.97,Debit Card,Groceries,67,East,0
+36488847-87ab-4900-8cc0-603fb6bd6916,3460fb9e,156.49,PayPal,Healthcare,36,East,0
+37e287ad-c1ed-4ee4-b102-7a5a3b723511,78e7d9c7,35.58,Credit Card,Restaurants,35,East,0
+64ad61ad-99a5-4808-9873-5f52ca54c1ee,724ce52b,44.6,Google Pay,Healthcare,49,Central,0
+62a5737b-87e3-4d39-b3bf-6e0d7bdd6b41,8c9517e5,31.9,Credit Card,Healthcare,63,Central,0
+4b34b185-7165-45ac-92aa-8af986fae94f,f38f07ff,45.84,Debit Card,Clothing,66,North,1
+b9e01c5f-b867-44cb-b853-6adb4b7c94a7,823c11ee,110.74,PayPal,Electronics,57,North,0
+2aaff6ee-be14-4cc9-9563-272ef05821bf,3526cade,20.76,Credit Card,Healthcare,32,North,0
+2dbec175-1bed-4c18-93f7-67bda9e27b3a,9d3676ba,34.25,Apple Pay,Clothing,66,East,0
+7136f990-264c-4df3-a041-60a71b621a9e,63360cf5,29.77,Debit Card,Restaurants,38,West,0
+6d3607c2-7a07-448b-a63b-f11262ef8b87,50814e96,25.37,PayPal,Healthcare,28,East,0
+3e5396eb-656e-4b96-9bd2-608512f6786d,d2b74cf5,86.03,Debit Card,Electronics,46,West,0
+f5a9bb06-97f6-4bd9-b551-3b2c5a006cb5,7e4e2365,13.19,Debit Card,Groceries,49,North,0
+ae9ca637-361f-4450-8012-9951259ef22a,91f4eb15,34.65,Credit Card,Groceries,23,East,0
+345b4646-15c9-462f-a681-9f4c8d20dc72,28048bd5,129.27,Credit Card,Travel,72,North,0
+dbf83983-ec1f-4813-b508-6ab37649591b,2313bcdb,8.79,Apple Pay,Groceries,36,Central,0
+be138d72-1b4e-4724-90c0-bcc6a3037366,46e2fde5,0.23,Google Pay,Travel,33,North,0
+57785faf-ae5d-4810-8984-500ef99c16d0,af9f9e4b,15.41,Apple Pay,Electronics,29,East,0
+2f503c14-d2b1-416e-ad5f-7ea5c78cadcb,3298f3fc,127.75,PayPal,Clothing,32,Central,0
